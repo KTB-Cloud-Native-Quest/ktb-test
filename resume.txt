@@ -1,0 +1,7 @@
+이름: hazel.park (박희진)
+나이: 만 21세
+학력: 경기대학교 AI컴퓨터공학부 컴퓨터공학전공
+경력: 신입
+자격증: SQLD, 정보처리기사
+대외활동: 화이트햇 스쿨, 구름톤 유니브 3기, KTB 클라우드 네이티브 in 제주
+사용 기술: Javascript, Typescript, React, tailwind, emotion
