@@ -1,2 +1,3 @@
-name: hazel.park (박희진)
-i like nogdamgom
+자격증: SQLD, 정보처리기사
+대외활동: 화이트햇 스쿨, 구름톤 유니브 3기, KTB 클라우드 네이티브 in 제주
+사용 기술: Javascript, Typescript, React, tailwind, emotion
