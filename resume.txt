@@ -1,2 +1,4 @@
-name: hazel.park (박희진)
-i like nogdamgom
+이름: hazel.park (박희진)
+나이: 만 21세
+학력: 경기대학교 AI컴퓨터공학부 컴퓨터공학전공
+경력: 신입
